@@ -1,12 +1,12 @@
 
-import ColorPicker from './ColorPicker.jsx'
+import StateArray from './StateArray.jsx'
 
 
 function App() {
 
   return(
     <>
-      <ColorPicker></ColorPicker>
+      <StateArray></StateArray>
     </>
   )
 }
