@@ -1,12 +1,12 @@
 
-import StateArray from './StateArray.jsx'
+import StateArrayOfObjects from './StateArrayOfObjects.jsx'
 
 
 function App() {
 
   return(
     <>
-      <StateArray></StateArray>
+      <StateArrayOfObjects></StateArrayOfObjects>
     </>
   )
 }
