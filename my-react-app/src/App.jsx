@@ -1,13 +1,10 @@
 
-import StateArrayOfObjects from './StateArrayOfObjects.jsx'
-
+import ToDoList from "./ToDoList.jsx"
 
 function App() {
 
   return(
-    <>
-      <StateArrayOfObjects></StateArrayOfObjects>
-    </>
+    <ToDoList></ToDoList>
   )
 }
 
