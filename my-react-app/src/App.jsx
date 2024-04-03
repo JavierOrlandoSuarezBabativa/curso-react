@@ -1,10 +1,10 @@
 
-import UseEffectMethod from "./UseEffect.jsx"
+import WidthHeigthUseEffect from "./WidthHeigth.jsx"
 
 function App() {
 
   return(
-    <UseEffectMethod></UseEffectMethod>
+    <WidthHeigthUseEffect></WidthHeigthUseEffect>
   )
 }
 
