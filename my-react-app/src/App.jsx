@@ -1,10 +1,10 @@
 
-import WidthHeigthUseEffect from "./WidthHeigth.jsx"
+import ComponentA from "./ComponentA.jsx"
 
 function App() {
 
   return(
-    <WidthHeigthUseEffect></WidthHeigthUseEffect>
+    <ComponentA></ComponentA>
   )
 }
 
